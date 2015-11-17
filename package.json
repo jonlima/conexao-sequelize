@@ -1,0 +1,13 @@
+{
+  "name": "conexao-bd",
+  "description": "Conexao com mysql usando Sequelize e Express-load",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "dotenv": "^1.2.0",
+    "express": "^4.13.3",
+    "express-load": "^1.1.15",
+    "mysql": "^2.9.0",
+    "sequelize": "^3.13.0"
+  }
+}
